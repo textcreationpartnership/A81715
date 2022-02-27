@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The captives returne, or, The testimonys of John Danks of Colchester, and Elizabeth Danks, his wife, to the mercy and goodness of God, in calling them back to his everlasting truth, after their ont-runnings [sic] and seperation from the same. : Also being warnings to those that still continue in enmity and seperation from the pretious truth and from the people of God, that they may returne while the Lord calls and while the day of their visitation continues. : With a short testimony to the truth by way of preface / written by John Furly, junior.</title>
+            <author>Danks, John, 1631 or 2-1697</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81715</idno>
+            <idno type="STC">Wing D210A</idno>
+            <idno type="STC">ESTC R171684</idno>
+            <idno type="EEBO-CITATION">45789267</idno>
+            <idno type="OCLC">ocm 45789267</idno>
+            <idno type="VID">172578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172578)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The captives returne, or, The testimonys of John Danks of Colchester, and Elizabeth Danks, his wife, to the mercy and goodness of God, in calling them back to his everlasting truth, after their ont-runnings [sic] and seperation from the same. : Also being warnings to those that still continue in enmity and seperation from the pretious truth and from the people of God, that they may returne while the Lord calls and while the day of their visitation continues. : With a short testimony to the truth by way of preface / written by John Furly, junior.</title>
+                  <author>Danks, John, 1631 or 2-1697</author>
+                  <author>Danks, Elizabeth.</author>
+                  <author>Furly, John, 1618-1686.</author>
+               </titleStmt>
+               <extent>[6], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+               <term>Conversion.</term>
+               <term>Regeneration (Theology)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172578:1"/>
+            <pb facs="tcp:172578:1" rendition="simple:additions"/>
+            <p>The Captives Returne OR The Teſtimonys of JOHN DANKS, of Colcheſter, and ELIZABETH DANKS, his wife, to the mercy and goodneſs of God, in calling them back to his Everlaſting truth, after their out-runnings and ſeperation from the ſame.</p>
+            <p>Alſo Being warnings to thoſe that ſtill Continue in Enmity and ſeperation from the pretious truth and from the people of God, that they may Returne while the Lord Calls and while the day of their viſita<g ref="char:EOLhyphen"/>tion continues.</p>
+            <p>VVith a short teſtimony to the truth by way of Preface written by <hi>JOHN FURLY, Junior.</hi>
+            </p>
+            <p>Printed in the Year. 1680.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172578:2"/>
+            <pb facs="tcp:172578:2"/>
+            <head>The PRAEFACE To the READER.</head>
+            <opener>
+               <salute>Friendly READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the dawning and breaking forth of Gods glorious day, and revelation of his bleſſed truth, after a long night of darkneſs, many have been the devices of the enemy of mankind, through his ſubtile and divers workings, to hinder the knowledg of the glory of it from the Sons of men; and the adverſaries of it have been of divers ſorts: But it being againſt the Truth, they have been con<g ref="char:EOLhyphen"/>founded in their work; ſo that we have ſeen it fulfilled, that no weapon formed againſt the truth hath prospered. And tho ſome from among us (by going from the power of truth which once reached to them) have come to ſuffer loſs, and, in that loſt eſtate, have accuſed us of falling away from what we firſt were, and, in the Spirit of enmity, have roſe up and wrot againſt us; yet the Lord ſometimes bath reached to ſuch again; and made them beare teſtimony to the truth, &amp; againſt their own out-runnings, that where they have been an occaſion of ſtumbling, by any thing acted or brought forth by them in that ſtate of ſeparation from God and his people, they might, as much as in them lyes, remove the ſame by bearing witneſs againſt the fruits of that Spirit which then acted them while they ſtood up pretendedly for the truth in a Spirit that was out of it. Now this having been the ſtate
+<pb facs="tcp:172578:3"/>
+of this perſon <hi>Iohn Dankes,</hi> he found it as a neceſſity upon him to bear teſtimony againſt that book of his, publisht under the name of <hi>Chriſtodulus Eccleſtone</hi> (long ſince anſwered by <hi>VV. G.</hi>) that if it hath or may come to the hands of any who may thereby have let in, or may be ſtrengthened in prejudice againſt the truth and the friends or it that have abode faithful to it, the prejudice may, as far as in him lyes, be removed, and this his teſtimony be as publik as his aforeſaid book, which is the reaſon of the printing of it, and alſo that it might be a warning to others that either have or hereafter may run into the ſame Spirit of prejudice and enmity againſt the truth and thoſe that live in it, not to appear ſo openly, and ſo rashly to accuſe us of apoſtacy, while themſelves are the apoſtates: For let ſuch know aſſuredly, that tho their pre<g ref="char:EOLhyphen"/>tences may be ſpecious in their own eyes (as his were) they muſt come to judgment, and it wil one day prove as a load too heavy for them to bear.</p>
+            <p>And now thou to whom this may come, who haſt had, or ſtill mayſt have deſires to be ſatisfied in our principles and doſt incline to the path in when we walk, its worthy thy conſideration (tender Reader) how many wayes truths and our adverſaries have appeared and that not onely through open, but private enemies; and how their Charges againſt us have been directly contrary one to the other. One ſort of them upbraiding us with holding doctrines not conſiſtant with the Scriptures of truth; while other of them, being bett<g ref="char:EOLhyphen"/>er informed of our principles, ſay they are good, but that we are not now the ſame in principle as at the beginning (where as that is onely their ignorance of our principles then.) Others, that have roſe up againſt us from amongſt us bearing teſtimony to our being the ſame in principle, alledge
+<pb facs="tcp:172578:3"/>
+that we are not ſo in life and converſation. Thus I ſay, it's worthy the honeſt readers ſerious conſideration, how our oppoſers accuſations have been divers, as alſo, how that thoſe latter that have gone out from us, being, as the apoſtle ſaid, not truly of us, doe yet generally bear teſtimony to the truth of our principles, in particular to that divine Spirit, Grace or Light of Chriſt Jeſus that discovers ſin and iniquity and the ſufficiency of it ſo ſalvation to all that obey it. And there<g ref="char:EOLhyphen"/>fore, my advice, in theſe few lines, to thoſe that are in<g ref="char:EOLhyphen"/>quiring after the Lord, is, Let not theſe Contradictions and aſperſions, that we have met with all, either from without, or from ſuch as for a ſeaſon have walked among us (but through not keeping judgment to the Line, have ſtarted a ſide like a broken bow) deter thee in thy ſincere deſires af<g ref="char:EOLhyphen"/>ter the Lord; but incline thy mind to the divine principle of life in thy ſelfe, which will cleanſe thee from that which hath made thee deſtitute of Gods preſence, as thou keeps to it, and removing that which hath hindred good things from thy ſoule, will give thee a ſence of the divine being, and keep thee a clean and holy habitation for himſelf through thy pilgrimage in this Earthly tabernacle, untill thou finiſh thy cours, and thy race here be run, and thou enter into thy reſt and haven of Everlaſting bleſſedneſs, not heed<g ref="char:EOLhyphen"/>ing the occaſions which, through the wiles of the enemy ei<g ref="char:EOLhyphen"/>ther in thy ſelf or from others without, may be offered thee to return, nor regarding thoſe that may fall on the right hand or on the left, for offences will come, but woe to them by whom they come, but bleſſed are they (ſaith Chriſt Jeſus) who are not offended in me: that this may be the portion of all whom the Lord hath or may yet viſit by his power (that is now going forth for the viſiting of the nations) is my
+<pb facs="tcp:172578:4"/>
+ſoules deſire, who, tho I have here reprehended that ſpirit that watches for advantages, and there-from takes occaſion to Caſt ſtumbling blocks in the way of the ſimple, am far from juſtifying thoſe that give the occaſion of ſtumbling, but do adviſe all to walk as becomes the Goſpell profeſſed by them.</p>
+            <closer>
+               <signed>
+                  <hi>JOHN FURLY.</hi> Junior.</signed>
+               <dateline>Colcheſter <date>this 6<hi rend="sup">th</hi> Moneth. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172578:4"/>
+            <head>The TESTIMONY OF ELIZABETH DANKS. &amp;c.</head>
+            <p>A <hi>True and faithfull warning</hi> to all thoſe who have had a Convince<g ref="char:EOLhyphen"/>ment of Gods truth upon their hearts, and have received of his bleſſed refreſhings to their ſoules, in often meeting toge<g ref="char:EOLhyphen"/>ther with the people of the Lord. But the way that leadeth to the kingdome of heaven, being a ſtrait and narrow way, Oh! there be many that cannot enter through it: it is too ſtraight and too narrow for them that rather chuſe the broad way, that leadeth to everlaſting deſtruction, for a little mirth, merryment and vaine glory, which will ſtand them in no ſtead when death ſeiſes upon them, but will riſe up in judgment againſt them for their diſobedience unto the Lord. Therefore all yee who have backſlidden from Gods Eternall truth, which once yee were made partakers of, in ſome meaſure, Oh! be awakened, be awakened unto righteouſneſs, Oh! haſt, haſt, with true repentance, to meet the Lord, before his wrath be kindled againſt you, for your diſobedience unto him, whom yee have pierced time after time and day after day. Oh! all yee who are ſtill turning your backs upon the truth, and returning as a dog to the vomit again: Oh! be fore-warned what yee are going about to doe. If yee forſake the Lord and his truth woe and miſery will be your portion, no peace will yee have, whereſoever yee flee the judgments of the righteous God will purſue you. Theſe things can I declare unto them to be true, for this was my Condition once, after I for ſooke the Lord and caſt Truth behind my back as a thing of nought. Oh! then I could have no peace, no true reſt could I have whereſoever I became: The Lord purſued me night and day, which even brake my heart, and there was an earneſt crye entred my heart <hi>The ſpirit of the Lord will not alwayes ſtrive with man and woman:</hi> Oh! then I began to Conſider how often the Lord, in his everlaſting loving kindneſs, had ſtrove with me, and I ſaid in my heart ſurely this is the laſt ſtriving the Lord will have with me: Therefore if yee will hear his voice harden not your hearts, but incline your ear, hearken dilligently and be truly obedient to the Lord and your ſoules shall live and not dye: Oh righteous God! Thy loving kind<g ref="char:EOLhyphen"/>neſs
+<pb n="2" facs="tcp:172578:5"/>
+hath been large unto me, thy tender bowels of Love and Com<g ref="char:EOLhyphen"/>paſſion were towards and over me, in that long night of darkneſs, where I wandred long as one weary and heavy laden, and where to get reſt I knew not, untill the Lord God in his own due time viſited me with a ſore viſitation of ſickneſs, in which he brought me even to the brink of the grave, and, to the Eye of reaſon, not like to live. Oh when death was ſet in order before me, and my ſlighting of Gods truth, which I once witneſſed and lived in, came over me, Oh! then was my heart broken unto the Lord, and theſe were my Cryes unto him. <hi>Oh righteous God! if it be thy will, mix thy judgments with mer<g ref="char:EOLhyphen"/>cy, and ſpare me, if it be thy will, that I may live to thy glory and praiſe for<g ref="char:EOLhyphen"/>ever and evermore; that this my ſo re viſitation may work my everlaſting ſalvation and tend to thy glory and everlaſting praiſes forever and evermore.</hi>
+            </p>
+            <p>Oh thou righteous god! who in thy everlaſting loving kindneſs haſt plucked me as a brand out of the fire, and haſt ſet my face Sion wards againe, Oh! living praiſes be unto thee thou righteous one. O<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thy Love and tenderneſs there is no end. I have great cauſe to declare it amongſt you, for I have received it in a large meaſure. He hath brough<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me unto a dying daily unto enmity, and a living unto righteouſneſs where I find a quiet habitation through true obedience unto the Lor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in whatſoever he maketh known unto me, and herein have I peace with the Lord. Oh! all yee that are backſlidden from Gods Eternall truth conſider what yee are doing. If yee goe on in rebellion and caſt reproof behind your backs, woe and miſery will be your end, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yee repent not with ſpeed, Remember, <hi>the ſpirit of the Lord will not alwayes ſtrive with man and woman,</hi> therefore if yee love and render the good of your own ſoules, and your everlaſting welfare with the Lord return, return unto him, whom yee have forſaken, with your heart continually bowed before him.</p>
+            <p>Friends, theſe things opened unto me in the time of my affliction that (if he raiſed me again,) I should be faithfull in what he had made known unto me, and now the Lord hath laid it upon me to haſt it forth that all may be fore warned of their backſliding from the L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, before the day of their Everlaſting deſtruction overtake them, for then it will be too late.</p>
+            <closer>
+               <signed>ELIZABETH DANKS.</signed>
+               <dateline>Written in <date>the 6 Moneth. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:172578:5"/>
+            <head>The Teſtimony of JOHN DANKS.</head>
+            <argument>
+               <p>Here is a weary wanderer in the wilderneſs, who, by hea<g ref="char:EOLhyphen"/>ring the voice of him that Cryes behind, <hi>this is the way walk in it,</hi> is returned home into his tent; where, by ſtill and quiet waiting upon his God, the Lord has shewn, and ſet in order before him the by-paths and miſ-ſteps, which he has troden ever ſince the day he returned his Captivity, and brought him out of the houſe of bondage, and ſet his face towards the Land of reſt.</p>
+            </argument>
+            <p>OH my friends! I am conſtrained to declare of the great loving kindneſs and long-ſufferance, of the forbearance and patience of my God towards me, ever ſince the day that I was convinced of the Eternall truth of God, which he has mani<g ref="char:EOLhyphen"/>feſted in this our age and generation, who, by his faithfull ſervant and meſſenger <hi>Iames Parnell,</hi> turned my mind from darkneſs to Light; which Light diſcoverd unto me the wofull ſtate and condition that I was in, as to God-wards: which when I ſaw it, I was filld with horror and anguish, and the righteous God ſet up his juſt judgments in me, which took ſuch ſure hold, that I could neither drink, nor eat, nor talk, nor ſleep, nor walk in quiet: but all was for judgment, that ever I did. Sorrow compaſt me round, in ſorrow I layd down at night and in the morning I roſe up in ſorrow; and this never ceaſed untill it had broke my will to pieces, and ſubdued and brought under my evill affections: and ſo brought me to wayt upon God in the meaſure of Light made manifeſt in me, in the true ſilence of my ſpirit. And thus the Lord, by his judgments, wrought a good reformation in me, and redeemed me from my vaine converſation, and then a ſecret hope of Eternall life was begotten in me, and a love towards the Lord and his people ſprang up in my heart, with a great pitty towards thoſe which were without, which were ſtrangers in their minds to God: And when any of the ſervants of the Lord declared the truth of God, Oh! what earneſt deſires would ariſe in me, that ſome ſuch might be reached, and be brought to a ſence of their Conditions, and it was my joy to ſee the prosperity of the truth both within and without; and thus the Lord by his judgments brought me near to himſelf, tho once afar off; and here my afflicted ſoule found ſome joy and comfort, and here was ſome re<g ref="char:EOLhyphen"/>conciliation
+<pb facs="tcp:172578:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172578:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172578:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172578:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:172578:8"/>
+with God. Oh happy and bleſſed day! Oh Lord, let the remembrance thereof never more depart from me till the day of my death. But through diſobedience I ſoon loſt my condition; For my evill inclinations ſprang up again, and, I being careleſs and from off my watch, my will broke out, and my old adverſary the devill ſoon catched hold on me, and led me into by-paths and into dark holes and Corners of the earth, and upon the hills and mountaines of imagination untill I was bewildred, and I went I knew not whither ſtumbling and falling, ſometimes on the right hand and ſometimes on the left, and ſometimes, as it were, going quite back again into the bondage of Corruptions, to wit the open pollutions of the world, out of which the Lord had redeemed me; yet in all my backſlidings the Lord would not leave me, but followed me with his judgments and often filled my ſoule with terror and anguish: but my will, being got out into liberty, would not be bridled, but hardned my heart, and went on in ſtifneckedneſs and rebellion againſt the Lord, and would have none of his reproofs: where upon in proceſs of time the people of the Lord, with whom I had walked and had union and comunion with, diſowned me, and publickly declared againſt me: which was ſuch a heavy ſtroak, that it ſtruck me almoſt to death: for ſeverall dayes and nights together I was as once benummed in his ſences or as one paſt feeling: for I was neither ſenſible of joy nor Sorrow. But when I recovered my ſelf, I conſidred their proceedings againſt me, and, judging them to be unjuſt, I gatherd up all the ſtrong proofs and arguments that I could get againſt them, and away I went to the mens meetings to Vin<g ref="char:EOLhyphen"/>dicate my ſelf, and to prove them tranſgreſſors, and ſo to acquit my ſelf: thus I went time after time from one meeting to another; and from one particular friend to another, and ſpake and wrote, but all would not do; no ſatisfaction could I have; which increaſt my trouble and fild my heart with a multitude of thoughts; and how to get eaſe I knew not. In this turmoile of ſpirit I fell to writing and wrote that book ſigned Chriſtodulus Eccleſton, which book I now diſown and teſtify againſt; and the ſpirit that gave it forth, Let the matter con<g ref="char:EOLhyphen"/>tained in it be what it will, as given forth by that Spirit that is out of the faith, which workes by love, which is the bond of peace; and therefore, in the faith which workes by Love, it is judged and con<g ref="char:EOLhyphen"/>demned to be good for nothing, but for to ſtir up envy and diſcord,
+<pb n="5" facs="tcp:172578:8"/>
+and to beget prejudice, and to nourish and ſtrengthen the ſame. And therefore I deſire all friends and people, who have any of them in their Cuſtody, or afterward shall come into their hands to make them null and void. And when this book was made publick ſtill I had no ſatis<g ref="char:EOLunhyphen"/>faction, but remained in great trouble, and was tumbled and toſſed up and down, and ſometimes ran into extravagancy amongſt ex<g ref="char:EOLhyphen"/>travagant company, and then judgment and terror would lay hold on me, and shame would cover my face, in ſo much that once above all the reſt the terror and wrath of the almighty was ſo heavy upon me, that I knew not what to do, nor where to wind my ſelf, for no quietneſs, nor reſt I could have night nor day, and death was of<g ref="char:EOLhyphen"/>ten preſented before me, and what a wofull portion I should have, if the Lord should take me off the earth, in that Condition; which made me Crye within my ſelf, Lord what shall I do? And this was the anſwer. <hi>Doe no evill, Commit no ſin;</hi> And at that time, I made a promiſe to God, that I would take heed to my wayes, and walk more Circumſpectly before him, ſo that this begat an awe in me, ſo that I durſt not run into ſuch cuſtoms, but was more watch<g ref="char:EOLhyphen"/>full over my wayes; and here I had ſome peace and quietneſs of mind; but ſtill ſorrow purſued me, and I walked with a bowed down Spirit, ſo that I was made very ſenſible of my great loſs; for I felt no ſuch living refreshments and comforts iſſuing into my ſoule, as for<g ref="char:EOLhyphen"/>merly I had, and I was alſo made ſenſible, that this my loſs came through my diſobedience, and my being ſeperated from the Lords people, and my neglect in waiting upon God: Then there aroſe longing deſires in me, that I might once more enjoy the privelidg that I once had, to wit Union with the Lords people, and to wayt upon God; But then friends publick declaration againſt me, appeared ſuch a great block in my way, that I could not ſtep over it, but I made a promiſe to God, that, if ever he would give me another oppor<g ref="char:EOLhyphen"/>tunity to make up the breach between us, I would in no caſe obſtruct or hinder it, and a beleif was begotten in me that God would work out my way for me: ſo I waited in my longing deſires and hope to ſee the fulfilling of my belief and in Gods due time he did give me another opportunity. For according to his good pleaſure George Fox came to town, who, like a tender and loving father who amongſt his Children is willing to accept the leaſt ſubmiſſion from
+<pb n="6" facs="tcp:172578:9"/>
+a wilfull Child, tooke the ſtumbling block out of my way, and made my way plaine, ſo that I might goe and ſet down with the Lords people and wait upon God: in which ſtate I now am, waiting upon God for the reſur<g ref="char:EOLhyphen"/>rection of my firſt Love; Everlaſting praiſes and thanks be unto his name forever, who has once more plucked my feet out of the mire, and ſet me in the right way, wherein I ſhould walk.</p>
+            <p>And now in the ſence of the ſpringings up of the love of God in my ſoule, do I call unto all you males and females, who have been convinced, and have believed the truth as it is in Ieſus, and have been put to flight, either in the winter ſeaſon, or on the ſabbath day, and have erred and gone aſtray from the way of the Lord, and are wandering in the dark holes and corners, and by-paths of ſtrife and envy, amongſt the hills and mountaines of Imaginations, crying out the glory and power of God is loſt, but that he will reveal and make it manifeſt in ages and generations to come: The man Moſes is loſt, and gone out of your ſight, and you have made you Gods of gold and of ſilver to go before you, which can neither ſave nor deliver you, but you are Loſt up and down by the will of your old adverſary the devill. Come, caſt away your Idols of gold and of ſilver, to the moules and to the batts, for of a truth the glory and power of God is riſen, but, in the dark holes and corners and by-paths of ſtrife and diſcord, you cannot ſee it: therefore is my call unto you, that you would ſtand ſtill and be quiet, and incline your hearts dilli<g ref="char:EOLhyphen"/>gently, and ſee if you cannot hear the voice of him that Cryes behind, <hi>this is the way;</hi> and if you hear it, tho it be never ſo ſmall and low, turn your faces towards it and follow it, of a certain it will lead you home to your tents where you may ſet down in quietneſs and ſtilneſs and ceas from your toile and travell, which you have while you are among the hills and mountaines of your Imaginations, where there is nothing but barrenneſs and leanneſs of ſoule: and ſo keeping at home in quietneſs and ſtilneſs, you will feel and ſee the glorious powerfull arm of the Lord God reaching forth towards the judging, and ſubduing your enemies under your feet, and to ſtrengthen and renew a right Spirit in you, and ſo you will come to live in the ſence of the Love of God ſpringing again up in your ſoules, and ſo your ſoules will come to be fed and nouriſhed with bread from heaven, Therefore come away be no longer ſtraglers and lingrers behind but follow him who is the good ſhepheard who tho he has hundreds of ſheep and looſes but one, he will go into the mountaines to ſeek him, and if he find him he will lay him on his ſhoulders and bring him home and fold him among his lambes, but if you will run on and will not ſtand ſtill to hear his voice, and follow him then will you dye and periſh forever in your gain ſayings, Therefore as you tender the good and welfare of your Immortall ſoules be quiet, and ſtand ſtill, and let the power of the Lord God work its effects in you, and bring you home to himſelf that you may enjoy everlaſting reſt and peace with him, which is the deſire of my ſoule, who am your friend</p>
+            <closer>
+               <signed>JOHN DANKS.</signed>
+               <dateline>
+                  <hi>Written in</hi> 
+                  <date> the 4 <hi>Moneth.</hi> 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
